@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/ray'
+let g:netrw_dirhist_2='/Users/ray/debugging'
+let g:netrw_dirhist_3='/Users/ray/Downloads/code_submitted'
+let g:netrw_dirhist_4='/Users/ray'
+let g:netrw_dirhist_5='/Users/ray/dev/liquibook/src/book'
+let g:netrw_dirhist_6='/Users/ray/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm'
+let g:netrw_dirhist_7='/Users/ray/dev/muduo/muduo'
+let g:netrw_dirhist_8='/Users/ray/dev/hobbes/hobbes/lib/hobbes'
